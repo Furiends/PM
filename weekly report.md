@@ -21,7 +21,7 @@
 - [PM & TPM 会议记录](https://docs.google.com/document/d/1X0qaFgdfi42xZH344wK7FhznTz-cnNLb/edit)
 
 ### UXUI：
-- [确定了最终版2B问卷](https://docs.google.com/document/d/15oi1wsZ--rXVPv7weM5oWU-R7fS-SPGzS77ofz40rPQ/edit)
+- [最终版2B问卷](https://docs.google.com/document/d/15oi1wsZ--rXVPv7weM5oWU-R7fS-SPGzS77ofz40rPQ/edit)
 - [问卷入口 *请大家不要填写哈，这是给救助机构填的](https://wj.qq.com/s2/9977460/61b1/)
 - [UXUI组四月任务分配与截止时间](https://docs.google.com/spreadsheets/d/1xfTIdd8zJHDkJUrDygJWQcLCLondpIwflx5IZ7CjGfM/edit#gid=0)
 
