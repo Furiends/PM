@@ -38,7 +38,7 @@ AI姐妹
 ### PM&TPM：
 - [项目管理工具及其职能 miro链接](https://miro.com/app/board/uXjVO-PX0uk=/)
 - [Furiends 四月计划](https://www.processon.com/view/link/6244023e1efad40756d366a9#map)  
-- [各组例会时间]()
+- [各组例会时间及会议链接](https://github.com/Furiends/PM/blob/main/Regularly-Scheduled%20Meetings.md)
 
 ### UXUI：
 - [2B问卷调研结果](https://docs.google.com/spreadsheets/d/1sws-2KmPS0x-sp1lqJ7aGHYMHaczdqom82j9A-fdtn8/edit#gid=0)
