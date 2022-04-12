@@ -25,7 +25,7 @@ uxui姐妹
 
 后端姐妹  
 - 确定使用Python开发。接下来调研Django和Flask框架，二选一  
-- 继续学习部署aws，学习GitHub Actions  
+- 继续学习部署aws并输出使用文档，学习GitHub Actions  
 
 AI姐妹  
 - CV组确定背景分离和图片压缩功能可使用的模型并测试；数据分析开发平台确定  
