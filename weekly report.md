@@ -20,7 +20,7 @@ uxui姐妹
 - 将在接下来的时间里与PM,UXUI,发起人一起合作探索确定Furiends品牌定位。  
 
 前端姐妹  
-- 在彭彭的建议下重新考虑开发框架，最终决定基于vue.js并使用uni-app框架开发小程序，用SASS做CSS编译。  
+- 在彭彭的建议下重新考虑开发框架，最终决定基于vue.js并使用uni-app框架开发全平台，用SASS做CSS编译。  
 - 接下来学习uni-app，并使用vue.js练习sign up feature  
 
 后端姐妹  
