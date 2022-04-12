@@ -57,7 +57,7 @@ AI姐妹
 ### NPO：
 - [NPO任务文档](https://docs.qq.com/doc/DSEtpRHd2RnlDdEJN)
 
-### 新媒体
+### 新媒体:
 - [SNS平台用户画像及内容特点调查报告](https://github.com/Furiends/Media/blob/main/resource.md)
 
 
