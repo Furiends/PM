@@ -26,7 +26,8 @@
 ---
 ### 前端
 北京 22:30 / 柏林 16:30 / 美东 10:30 / 美西 7:30  
-* 17.04临时会议链接: https://uni-augsburg.zoom.us/j/99092002103?pwd=YWVIUm4vakMxUFo1S2hvSXBUSkdOQT09
+‼️ 17.04临时会议链接: https://uni-augsburg.zoom.us/j/99092002103?pwd=YWVIUm4vakMxUFo1S2hvSXBUSkdOQT09  
+
 🔗：https://zoom.us/j/98236055277?pwd=VkZRY2syd29PUGVTcHpvUHJOdFNoQT09
 
 ---
