@@ -14,7 +14,7 @@
 ---
 
 # 周日 👇🏻
-### 新媒体 （待确认）
+### 新媒体 （17.04 取消）
 北京 20:00 / 柏林 14:00 / 美东 8:00 / 美西 5:00  
 🔗：https://uni-augsburg.zoom.us/j/93953233778?pwd=cFNrRGxaSklNQlVPNCt6bGVLU1d5UT09  
 
