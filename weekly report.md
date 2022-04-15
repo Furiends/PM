@@ -24,7 +24,7 @@ uxui姐妹
 - 接下来学习uni-app，并使用vue.js练习sign up feature  
 
 后端姐妹  
-- 确定使用Python开发。接下来调研Django和Flask框架，二选一  
+- 确定使用Python开发。接下来调研Django, Flask和Fastapi框架，三选一  
 - 继续学习部署aws并输出使用文档，学习GitHub Actions  
 
 AI姐妹  
