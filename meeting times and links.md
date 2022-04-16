@@ -8,7 +8,7 @@
 
 ---
 ### AI
-北京 21:00 / 柏林 15:00 / 美东 9:00 / 美西 6:00   
+北京 22:00 / 柏林 16:00 / 美东 10:00 / 美西 7:00   
 🔗：https://uni-augsburg.zoom.us/j/94390840507?pwd=SlIrRmxSL1pnNWgwdXF1bkJEQ1IxQT09
 
 ---
