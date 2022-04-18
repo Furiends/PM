@@ -1,4 +1,4 @@
-# 4rd week: 03.04 - 10.04.2022
+# 4th week: 03.04 - 10.04.2022
 ## 综述
 在过去的一周里，我们许多小组都有了固定的[例会时间](https://github.com/Furiends/PM/blob/main/Regularly-Scheduled%20Meetings.md)。
 PM & TPM明确了项目推进过程中需要使用的各平台的职能：
