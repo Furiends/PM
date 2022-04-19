@@ -1,3 +1,55 @@
+# 5th week: 11.04 - 17.04.2022
+## 综述  
+出于各组的需要，在过去的一周里，我们又迎来了3名npo姐妹烁烁、墨鱼和洋洋，2名前端姐妹加贝和阿若，以及1名后端姐妹狗跑，非常欢迎大家的加入！  
+同时我们也有了自己的中文名<b>“茸茸星球”</b> ❤ 耶  
+
+PM & TPM 会议上，综合考虑了用户需求/终端用户使用习惯/开发学习成本/中期寻求资金支持/推广难易度/一期数据回收量等因素后，最终确定了第一阶段的开发内容:
+<b>B端小程序 + C端小程序 + 网页端组织展示页面</b>  
+
+uxui姐妹
+- 在过去的一周完成了竞品调研
+- 同时对回收的需求进行了分析，将于北京时间本周日早九点与PM和技术组姐妹开展探讨需求与功能的workshop
+> workshop结束后由PM输出PRD文档  
+
+npo姐妹
+- 分组制作领养人审核信息表单
+
+前端
+- 将在这一周确定代码审查规范与ui框架
+- 使用Vue.js练习filter feature  
+
+后端
+- 确定了开发语言为java，开发框架为Spring Boot
+- 输出了AWS EC2文档
+- 将在本周的workshop中与AI姐妹、PM共同确定数据库  
+
+AI姐妹们  
+- CV组经测试确定了背景替换模型的可实施性，
+- 选择了可行的图片压缩算法，
+- 接下来计划将动物毛色分类算法应用到程序上
+- DA组确定了智能推荐系统的可实施性，将在未来一段时间内寻找数据
+
+
+由于项目有不同阶段，到目前为止各个组的参与度也不同，也许有的姐妹已经进入了疲惫期，而有的姐妹还没能深度投入。希望大家给我们的小小事业小小社区一点时间去成长，同时也欢迎大家随时公聊或私聊建议与想法。祝我们带着信心继续往前走，一起把想做的事情做下去。
+
+## 成果链接 & 会议记录
+### UXUI：
+- [会议记录](https://github.com/Furiends/UXUI/blob/main/meeting%20note.md)
+- [竞品调研结果](https://docs.google.com/spreadsheets/d/1pdruLOvovZ-0p6Kg3lq3QgrvKE_KDGiJU3BXhE8C0_U/edit?resourcekey=0-dCjA0PHl8JAf_1ktwv373g#gid=2073884517)
+
+### 前端：
+- [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
+
+### 后端：
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_09Apr2022.md)
+
+### AI:
+- [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+
+### NPO:
+- [任务分配](https://github.com/Furiends/NPO/blob/main/images/151650364094_.pic.jpg)
+
+---
 # 4th week: 03.04 - 10.04.2022
 ## 综述
 在过去的一周里，我们许多小组都有了固定的[例会时间](https://github.com/Furiends/PM/blob/main/Regularly-Scheduled%20Meetings.md)。
