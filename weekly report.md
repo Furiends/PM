@@ -41,7 +41,7 @@ AI姐妹们
 - [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
 
 ### 后端：
-- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_09Apr2022.md)
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_minutes.md)
 
 ### AI:
 - [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
