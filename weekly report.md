@@ -1,6 +1,67 @@
+# 6th week: 18.04 - 24.04.2022
+## 综述  
+首先欢迎我们新加入的后端姐妹Cherie🎉  
+在过去的这一周里，我们项目的开发准备工作进入了尾声，  
+uxui姐妹超强输出，  
+- 通过对2B问卷与竞品调研的结果分析确定了top3痛点，
+- 并主持了与PM和技术组姐妹的workshop，通过头脑风暴的方式初步确定了三个痛点的解决方案。
+- 结合workshop的成果与PM的mvp1功能清单，输出了[用户流程图草稿](https://miro.com/app/board/uXjVO6AHydU=/)
+
+> 用户流程图草稿在由PM与技术组确认后，将由PM将其划分为不同模块，决定开发顺序。  
+
+在PM & tPM会议上确定了五月的一些时间点， 
+- 5月7日，PM出mvp1的PRD文档，后端和AI姐妹可以根据PRD开始做一些不依赖于原型图的开发工作
+- 5月14日，uxui交付第一个模块的低保真原型给前端，前端开始开发
+- 5月28日，uxui交付第一个模块的高保真原型
+
+前端
+- 确定参照Airbnb的代码规范进行开发  
+- 将丰富例会形式，加入pair programming session   
+
+后端
+
+
+NPO姐妹
+- 收集了多个机构的领养人资质审核问卷，分别整理出了猫猫与狗狗的审核表单，列出了我们平台将来要考虑的审核点，并依据重要程度，对这些要点进行了赋值评分
+- 接下来会将领养人审核表单拆分为“基础版”与“正式版”，分别应用于用户注册时的基础审核与申请领养时的严格审核。  
+> 审核表单交给AI组用于训练机器筛选模型
+
+AI姐妹  
+- CV组收集了千张猫猫照片，利用kaggle数据集与Oxford数据集做宠物分类模型demo，将于下周进行测试
+- DA组
+
+新媒体姐妹  
+- 将与发起人，pm，uxui姐妹一起探索品牌定位  
+
+
+
+五一将至，预祝大家节日快乐！假日周末为大家提供了多个会议供大家围观
+
+## 成果链接 & 会议记录
+### UXUI：
+- [Brainstorm workshop 成果](https://miro.com/app/board/uXjVO-PX0uk=/)
+- [Flowchart mvp1 用户流程图草稿](https://miro.com/app/board/uXjVO6AHydU=/)  
+
+### 前端：
+- [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
+
+### 后端：
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_minutes.md)
+
+### AI:
+- [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+
+### NPO:
+- [狗狗领养人审核条件赋值表](https://docs.qq.com/sheet/DS0xNdnFoTUpMS29D)
+- [猫猫领养人审核条件赋值表](https://docs.qq.com/sheet/DRUpObm5LQmJqclls)
+
+
+
+
+---
 # 5th week: 11.04 - 17.04.2022
 ## 综述  
-出于各组的需要，在过去的一周里，我们又迎来了3名npo姐妹烁烁、墨鱼和洋洋，2名前端姐妹加贝和阿若，以及1名后端姐妹狗跑，非常欢迎大家的加入！  
+出于各组的需要，在过去的一周里，我们又迎来了3名npo姐妹烁烁、墨鱼和洋洋，和2名前端姐妹加贝和阿若，非常欢迎大家的加入！  
 同时我们也有了自己的中文名<b>“茸茸星球”</b> ❤ 耶  
 
 PM & TPM 会议上，综合考虑了用户需求/终端用户使用习惯/开发学习成本/中期寻求资金支持/推广难易度/一期数据回收量等因素后，最终确定了第一阶段的开发内容:  
