@@ -1,3 +1,51 @@
+# 7th week: 25.04 - 01.05.2022
+## 综述  
+我们离正式开发越来越近啦，无论是技术组还是运营组，姐妹们都在按节奏有序地推进：  
+
+PM和TPM
+- 在过去的一周里输出了详细的领养人流程图
+- 计划与发起人一起将产品框架与规划文档化，以便指导后续的任务  
+
+uxui  
+- 参考开发姐妹的建议对用户流程图进行了修改
+- 经过品牌探索workshop后，将在接下来一周出配色方案与logo草图  
+
+npo姐妹  
+- 完成了领养人审核问卷的基础版，将继续优化各个问题的选项
+- 开始做正式版领养人审核问卷  
+
+新媒体  
+- 梳理了品牌定位，确定了未来三个月的[发展计划](https://miro.com/app/board/uXjVO6GBdjA=/)
+- 明确了宣传平台与各个平台负责人，将在接下来这周陆续开设账号  
+
+谢谢大家的付出，祝姐妹们有一个阳光明媚的五月！  
+
+
+
+
+
+
+## 成果链接 & 会议记录
+### PM & TPM
+- [领养人流程图](https://www.processon.com/view/link/626eec286376891e1c1f4298)
+
+### UXUI：
+- [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
+
+### 前端：
+- [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
+
+### 后端：
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_minutes.md)
+
+### AI:
+- [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+
+### 新媒体：
+- [新媒体运营框架与时间线](https://miro.com/app/board/uXjVO6GBdjA=/)
+
+
+---
 # 6th week: 18.04 - 24.04.2022
 ## 综述  
 首先呢要欢迎我们新加入的后端姐妹Cherie🎉  
