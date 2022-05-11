@@ -14,14 +14,14 @@ uxui
 前端和后端姐妹
 - 都各自对MVP1流程图进行了内部讨论，并计划一起讨论两端间的接口、开发顺序、ddl等问题。  
 - 前端姐妹将继续进行feature练习；
-- 后端姐妹出了框架搭建文档并进行内部学习，并将分成两队设计数据库。
+- 后端姐妹出了Spring相关技术文档并进行内部学习；接下来将分成两队设计数据库。
 
 AI姐妹
 - CV组分工去做宠物特征识别和[背景抠图](https://drive.google.com/drive/folders/1JDKVRzzKFLiVru_Xn-6oR9O3WV0kMXsy?usp=sharing)的模型训练与测试，
 - DA组将在本周中开会讨论推荐系统模型(用于后期"猜你喜欢"功能)。
 
 新媒体姐妹
-- 整理并分享了在各社交媒体内容发布的可用选题，并建立了[选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)；
+- 整理并分享了在各社交媒体内容发布的可用选题，随即建立了[选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)；
 - 接下来将通过对各平台top账号的调研来继续积累选题和素材，同时规划各平台的栏目主题分类。  
 
 NPO姐妹
