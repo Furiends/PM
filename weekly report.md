@@ -14,7 +14,7 @@ uxui
 前端和后端姐妹
 - 都各自对MVP1流程图进行了内部讨论，并计划一起讨论两端间的接口、开发顺序、ddl等问题。  
 - 前端姐妹将继续进行feature练习；
-- 后端姐妹出了框架搭建文档并进行内部学习，并分成两队设计数据库。
+- 后端姐妹出了框架搭建文档并进行内部学习，并将分成两队设计数据库。
 
 AI姐妹
 - CV组分工去做宠物特征识别和[背景抠图](https://drive.google.com/drive/folders/1JDKVRzzKFLiVru_Xn-6oR9O3WV0kMXsy?usp=sharing)的模型训练与测试，
