@@ -18,7 +18,7 @@ uxui
 
 AI姐妹
 - CV组分工去做宠物特征识别和[背景抠图](https://drive.google.com/drive/folders/1JDKVRzzKFLiVru_Xn-6oR9O3WV0kMXsy?usp=sharing)的模型训练与测试，
-- DA组将在本周中开会讨论推荐系统模型(用于后期"猜你喜欢"功能)。
+- DA组将在本周讨论推荐系统模型(用于后期"猜你喜欢"功能)。
 
 新媒体姐妹
 - 整理并分享了在各社交媒体内容发布的可用选题，随即建立了[选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)；
