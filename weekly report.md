@@ -1,9 +1,56 @@
+# 8th week: 02.05 - 08.05.2022
+## 综述  
+PM和TPM
+- 与需求方(熟悉救助组织工作流程的姐妹们)最终确认了MVP1 B端与C端流程的合理性与完整性，
+- 将在本周将MVP1流程中的功能与任务进行拆分，排出开发优先级，定下细化后的开发时间线，并与技术组进行确认。  
+
+uxui  
+Go through PM上周在需求会上的要点，做了一些key point记录 待PM这周做了功能拆分，周末和技术讨论可实施性以及确定最后开发流程，根据PM拆分的部分，开始做design。
+继续讨论了Logo,放置于组内miro board：Miro board.因有组员有事未能参加meeting，所以等组员后续update了logo design,最后finalize选出我们组对logo的建议，再给stakeholders和pm看，做最后的决定。
+继续讨论brand colour，但考虑到颜色选择自由度的问题，下来再和技术组询问，再做定夺。
+
+前端和后端姐妹都各自对mvp1流程图进行了内部讨论，并计划一起讨论两端间的接口、开发顺序、ddl等问题。  
+此外，前端姐妹将继续进行feature练习；后端姐妹也将继续学习后端框架，并将分成两队设计数据库。
+
+AI姐妹
+- CV组分工去做宠物特征识别和背景抠图的模型训练与测试，
+- DA组将在本周中开会讨论推荐系统模型(用于后期"猜你喜欢"功能)。
+
+新媒体姐妹
+- 整理并分享了在各社交媒体内容发布的可用选题，并建立了选题库；
+- 接下来将通过对各平台top账号的调研来继续积累选题和素材同时规划各平台的主题栏目设置
+
+## 成果链接 & 会议记录
+### PM & TPM
+- [领养人流程图](https://www.processon.com/view/link/626eec286376891e1c1f4298)
+- [机构流程图](https://www.processon.com/view/link/62725b6e079129397f328d3c)
+
+### UXUI：
+- [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
+
+### 前端：
+- [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
+
+### 后端：
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_minutes.md)
+
+### AI:
+- [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+
+### 新媒体：
+- [会议记录](https://github.com/Furiends/Media/blob/main/weekly%20report.md)
+- [运营框架+时间线+选题分享](https://miro.com/app/board/uXjVO6GBdjA=/)
+- [选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)
+
+
+
+---
 # 7th week: 25.04 - 01.05.2022
 ## 综述  
 我们离正式开发越来越近啦，无论是技术组还是运营组，姐妹们都在按节奏有序地推进：  
 
 PM和TPM
-- 在过去的一周里输出了详细的领养人流程图
+- 在过去的一周里输出了详细的机构流程图与领养人流程图
 - 计划与发起人一起将产品框架与规划文档化，以便指导后续的任务  
 
 uxui  
@@ -29,6 +76,7 @@ npo姐妹
 ## 成果链接 & 会议记录
 ### PM & TPM
 - [领养人流程图](https://www.processon.com/view/link/626eec286376891e1c1f4298)
+- [机构流程图](https://www.processon.com/view/link/62725b6e079129397f328d3c)
 
 ### UXUI：
 - [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
