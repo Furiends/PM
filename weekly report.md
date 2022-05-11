@@ -1,24 +1,36 @@
 # 8th week: 02.05 - 08.05.2022
-## 综述  
+## 综述
+先为大家快速播报一下过去一周发生的事情以及接下来这一周的计划：  
+
 PM和TPM
-- 与需求方(熟悉救助组织工作流程的姐妹们)最终确认了MVP1 B端与C端流程的合理性与完整性，
-- 将在本周将MVP1流程中的功能与任务进行拆分，排出开发优先级，定下细化后的开发时间线，并与技术组进行确认。  
+- 与需求方(熟悉救助的姐妹们)最终确认了MVP1 B端与C端流程的完整性，
+- 将在本周将MVP1流程中的功能与任务进行拆分，排出开发优先级，并与技术组进行确认。
+- 同时定下细化后的开发时间线，并在开发进程中再次评估+动态调整。
 
 uxui  
-Go through PM上周在需求会上的要点，做了一些key point记录 待PM这周做了功能拆分，周末和技术讨论可实施性以及确定最后开发流程，根据PM拆分的部分，开始做design。
-继续讨论了Logo,放置于组内miro board：Miro board.因有组员有事未能参加meeting，所以等组员后续update了logo design,最后finalize选出我们组对logo的建议，再给stakeholders和pm看，做最后的决定。
-继续讨论brand colour，但考虑到颜色选择自由度的问题，下来再和技术组询问，再做定夺。
+- 分享讨论了[logo设计稿和配色方案](https://miro.com/app/board/uXjVOADbDC0=/)
+- 将在MVP1拆分版出来后开始UX设计
 
-前端和后端姐妹都各自对mvp1流程图进行了内部讨论，并计划一起讨论两端间的接口、开发顺序、ddl等问题。  
-此外，前端姐妹将继续进行feature练习；后端姐妹也将继续学习后端框架，并将分成两队设计数据库。
+前端和后端姐妹
+- 都各自对MVP1流程图进行了内部讨论，并计划一起讨论两端间的接口、开发顺序、ddl等问题。  
+- 前端姐妹将继续进行feature练习；
+- 后端姐妹出了框架搭建文档并进行内部学习，并分成两队设计数据库。
 
 AI姐妹
-- CV组分工去做宠物特征识别和背景抠图的模型训练与测试，
+- CV组分工去做宠物特征识别和[背景抠图](https://drive.google.com/drive/folders/1JDKVRzzKFLiVru_Xn-6oR9O3WV0kMXsy?usp=sharing)的模型训练与测试，
 - DA组将在本周中开会讨论推荐系统模型(用于后期"猜你喜欢"功能)。
 
 新媒体姐妹
-- 整理并分享了在各社交媒体内容发布的可用选题，并建立了选题库；
-- 接下来将通过对各平台top账号的调研来继续积累选题和素材同时规划各平台的主题栏目设置
+- 整理并分享了在各社交媒体内容发布的可用选题，并建立了[选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)；
+- 接下来将通过对各平台top账号的调研来继续积累选题和素材，同时规划各平台的栏目主题分类。  
+
+NPO姐妹
+- 领养人审核表单的[基础版](https://docs.google.com/spreadsheets/d/1diMowJ8SzTz38aeDyzB93IEgB0Q8kgBK/edit#gid=1190099660)(用于注册环节)与[正式版](https://github.com/Furiends/NPO/blob/main/领养人审核问卷.md)(用于领养申请环节)均已制作完毕
+
+我们的时间线与之前和大家讲过的有一些出入，开发预计会比预期晚一周开始。虽然如此，这仍是一个积极的信号，背后是更细致的讨论与进一步的磨合，推动我们相互理解，好好前进。  
+最后来一个重要的唠叨：无论是在室内还是室外，大家都要多晒太阳哦，保护身体和情绪 ❤
+
+
 
 ## 成果链接 & 会议记录
 ### PM & TPM
@@ -27,6 +39,7 @@ AI姐妹
 
 ### UXUI：
 - [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
+- [logo设计稿和配色方案](https://miro.com/app/board/uXjVOADbDC0=/)
 
 ### 前端：
 - [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
@@ -36,6 +49,10 @@ AI姐妹
 
 ### AI:
 - [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+- [背景抠图模型测试效果](https://drive.google.com/drive/folders/1JDKVRzzKFLiVru_Xn-6oR9O3WV0kMXsy?usp=sharing)
+
+### NPO:
+- [领养人审核表单](https://github.com/Furiends/NPO/blob/main/领养人审核问卷.md)
 
 ### 新媒体：
 - [会议记录](https://github.com/Furiends/Media/blob/main/weekly%20report.md)
