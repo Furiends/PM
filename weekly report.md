@@ -1,3 +1,37 @@
+# 9th week: 09.05 - 15.05.2022
+## 综述
+
+
+## 成果链接 & 会议记录
+
+- [Furiends glossary]
+- [法律问题汇总处]
+- 
+### PM & TPM
+- [MVP1 Timeline](https://docs.qq.com/sheet/DQ25yUU15TkZTSVBG?u=c0e550a33fe04a6cb7ea99c1f73bd9b6&tab=BB08J2)
+ 
+### UXUI：
+- [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
+- [logo设计稿和配色方案](https://miro.com/app/board/uXjVOADbDC0=/)
+
+### 前端：
+- [会议记录](https://demo.hedgedoc.org/IuxuzXNcRiCPIl_TCDAAaQ?both)
+
+### 后端：
+- [会议记录](https://github.com/Furiends/Backend/blob/main/meeting_minutes.md)
+
+### AI:
+- [会议记录](https://github.com/Furiends/AI/blob/main/meeting%20notes.md)
+
+### NPO:
+- [领养人审核表单](https://github.com/Furiends/NPO/blob/main/领养人审核问卷.md)
+
+### 新媒体：
+- [会议记录](https://github.com/Furiends/Media/blob/main/weekly%20report.md)
+- [运营框架+时间线+选题分享](https://miro.com/app/board/uXjVO6GBdjA=/)
+- [选题库](https://shimo.im/sheets/VMAPV8p875tG0zqg/MODOC/)
+
+---
 # 8th week: 02.05 - 08.05.2022
 ## 综述
 先为大家快速播报一下过去一周发生的事情以及接下来这一周的计划：  
