@@ -9,6 +9,7 @@
 - 
 ### PM & TPM
 - [MVP1 Timeline](https://docs.qq.com/sheet/DQ25yUU15TkZTSVBG?u=c0e550a33fe04a6cb7ea99c1f73bd9b6&tab=BB08J2)
+- [数据库字段](https://miro.com/app/board/uXjVO6EwF9E=/)
  
 ### UXUI：
 - [info与idea汇总板块](https://miro.com/app/board/uXjVOADbDC0=/)  
