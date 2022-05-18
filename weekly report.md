@@ -1,12 +1,20 @@
 # 9th week: 09.05 - 15.05.2022
 ## 综述
+过去的一周没有太多新鲜事，开心迎来了新姐妹算一个：欢迎AI姐妹Feya和NPO小姐妹方方！撒花🎉！ 谢谢主动引荐的姐妹们！  
 
+另一个呢就是上周我们完成了对MVP1流程的技术确认，PM确定了MVP1的开发时间线供技术各组参考，然后…开发就正式开始啦！    
+- UXUI姐妹率先动手进行组织机构模块的交互设计，
+- 后端姐妹也开始设计数据库。
+- AI姐妹则按照原本节奏继续训练模型，功能成熟后将接入流程。
+- 新媒体姐妹开始经营各社交平台账号，确定更新频率与第一批宣传文案。
+
+祝贺我们进入开发阶段！祝大家五月的尾巴快乐！
 
 ## 成果链接 & 会议记录
 
-- [Furiends glossary]
-- [法律问题汇总处]
-- 
+- [Furiends glossary](https://github.com/Furiends/PM/blob/main/glossary.md)
+- [法律问题汇总处](https://github.com/Furiends/PM/blob/main/legal%20issues.md)
+
 ### PM & TPM
 - [MVP1 Timeline](https://docs.qq.com/sheet/DQ25yUU15TkZTSVBG?u=c0e550a33fe04a6cb7ea99c1f73bd9b6&tab=BB08J2)
 - [数据库字段](https://miro.com/app/board/uXjVO6EwF9E=/)
