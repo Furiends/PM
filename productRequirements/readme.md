@@ -9,3 +9,4 @@
 - [茸茸星球Furiends项目介绍文字稿](https://github.com/Furiends/Media/blob/main/Resource/茸茸星球Furiends%202.0.docx)
 - [领养人审核问卷](https://github.com/Furiends/NPO/blob/main/领养人审核问卷.md)
 - [数据库字段]()
+- [常用词汇表](https://github.com/Furiends/PM/blob/main/glossary.md) 
