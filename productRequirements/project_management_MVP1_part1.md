@@ -1,6 +1,7 @@
 
-#### MVP1 Part1 
+### MVP1 Part1  
 
+#### 机构信息管理页面 
 |模块划分 | 模块内容                                 | UXUI负责人  | 交付时间       | 前端负责人 | 交付时间 | tPM |
 | ----- | --------------------------------------- | ------------ | ----------- | ------- | ------ | -----  |
 |Flow 1a| 机构登录进入主页                           | 姜姜          | 6月4日      |         |         | Claire |
@@ -10,4 +11,5 @@
 |Flow 2b| 机构领养程序管理                          |              | 6月4日       |      |        | Claire |
 
 <br>
-- [lo-fi](https://www.figma.com/file/aJBDuIyvz7WM8loBn0vFmG/Furiends?node-id=2%3A2)
+
+[👉🏻lo-fi 低保真原型图](https://www.figma.com/file/aJBDuIyvz7WM8loBn0vFmG/Furiends?node-id=2%3A2)
