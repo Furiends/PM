@@ -14,3 +14,4 @@
 <br>
 
 [👉🏻lo-fi 低保真原型图](https://www.figma.com/file/aJBDuIyvz7WM8loBn0vFmG/Furiends?node-id=2%3A2)
+[👉🏻前端开发进度表](https://github.com/Furiends/Frontend/blob/main/projectProgress/mvp1.md)
