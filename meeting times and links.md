@@ -3,7 +3,7 @@
 # 周六 👇🏻
 
 ### 后端
-北京 10:00 / 柏林 4:00 / 美东 22:00 (Fri.) / 美西 19:00 (Fri.)  
+北京 9:00 / 柏林 3:00 / 美东 21:00 (Fri.) / 美西 18:00 (Fri.)  
 🔗：https://uni-augsburg.zoom.us/j/94518034375?pwd=K1NtVlVNWHBYU1ZHYkFwZnB0azZMQT09
 
 ---
